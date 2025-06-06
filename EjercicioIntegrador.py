@@ -23,7 +23,7 @@ def busqueda_lineal(lista, valor):
 # Lista de edades
 edades = [21, 18, 25, 19, 22, 20, 23]
 
-print(Fore.GREEN + "Lista de EDADES:", edades)
+print(Fore.GREEN + "Lista de EDADES de los estudiantes:", edades)
 
 # Ordenar la lista
 ordenamiento_s_sort(edades)
