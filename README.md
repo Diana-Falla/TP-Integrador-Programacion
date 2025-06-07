@@ -14,7 +14,7 @@ GUIA DEL REPOSITORIO:
 
 El presente repositorio contará con los siguientes archivos:
 
-ARCHIVO PDF : Trabajo Integrador - Algoritmos de Búsqueda y Ordenamiento-FallaD - FioritC
+ARCHIVO PDF : Trabajo Integrador - Algoritmos de Búsqueda y Ordenamiento-FallaD - FioritC.pdf
 
 ARCHIVO .PY : EjercicioIntegrador.py
 
