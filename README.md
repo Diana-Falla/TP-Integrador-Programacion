@@ -16,8 +16,6 @@ El presente repositorio contará con los siguientes archivos:
 
 ARCHIVO PDF : Trabajo Integrador - Algoritmos de Búsqueda y Ordenamiento-FallaD - FioritC
 
-ARCHIVO PPT : PPT_TP-Integrador-Programacion-FALLA-FIORITO
-
 ARCHIVO .PY : EjercicioIntegrador.py
 
 
